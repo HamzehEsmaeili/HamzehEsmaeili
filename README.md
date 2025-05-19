@@ -10,11 +10,10 @@
 ---
 ## 💫 About Me
 
-👨‍💻 I am a motivated front-end developer in training, currently focusing on **HTML**, **CSS**, and **Tailwind CSS**  
-🎯 My goal is to build a strong foundation in modern web development and pursue a professional career in the field  
-💼 Currently, I am gaining practical experience through an **internship**, where I apply and improve my skills in real-world projects  
-✨ I am passionate about creating **responsive**, **user-friendly** interfaces and constantly learning to stay up to date with the latest technologies  
-🚀 I am open to opportunities that allow me to grow, contribute, and collaborate with other developers and teams  
+👨‍💻 I am a motivated front-end developer in training, currently focusing on JavaScript and **Tailwind CSS**.  
+🎯 My goal is to build a strong foundation in modern web development and pursue a professional career in the field.  
+💼 Currently, I am gaining practical experience through an **internship**, where I apply and improve my skills in real-world projects.  
+🚀 I am open to opportunities that allow me to grow, contribute, and collaborate with other developers and teams.  
 
 📫 Reach me:  
 [📧 Email](mailto:hamzehesmaeili.Official@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/hamzehesmaeili)
