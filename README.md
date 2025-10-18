@@ -53,9 +53,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzehEsmaeili&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
-<div align="center">
+
 
 ## 📂 Featured Projects
+
+<div align="center">
+  
 | Project | Description | Tech | Live Demo |
 |--------|-------------|------|-----------|
 | Medical template | A modern, responsive healthcare template | HTML, CSS, JavaScript | [🔗 Live Demo](https://hamzehesmaeili.github.io/medical-template/) |
